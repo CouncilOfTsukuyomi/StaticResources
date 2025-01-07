@@ -1,0 +1,14 @@
+{
+  "name": "Updater",
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "Backgrounds": {
+    "Images": [
+      "./Drifting.png",
+      "./dumb.png",
+      "./Foi.png",
+      "./Talim.png",
+      "./Vanity.png"
+    ]
+  }
+}
