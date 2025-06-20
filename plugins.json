@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-06-20T10:00:00Z",
+  "plugins": [
+    {
+      "id": "xmamod-plugin",
+      "name": "XIV Mod Archive",
+      "description": "XIV Mod Archive integration - browse and download FFXIV mods",
+      "version": "placeholder",
+      "author": "Council of Tsukuyomi",
+      "category": "Mod Sources",
+      "tags": ["mods", "ffxiv", "xiv", "gaming", "official"],
+      "downloadUrl": "placeholder",
+      "lastUpdated": "2025-06-20T09:30:00Z",
+      "metadata": {
+        "repositoryUrl": "https://github.com/CouncilOfTsukuyomi/XMA-Plugin"
+      }
+      "githubSource": {
+        "owner": "CouncilOfTsukuyomi",
+        "repository": "XMA-Plugin",
+        "includePrereleases": false,
+        "categoryOverride": "Mod Sources",
+        "additionalTags": ["dynamic", "auto-update"],
+        "assetNamePattern": ".*\\.zip$"
+      }
+    }
+  ]
+}
